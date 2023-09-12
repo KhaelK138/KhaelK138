@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KhaelK138
-- 👀 I’m interested in Computer Science and Cybersecurity (Web & Crypto)
+- 👀 I’m interested in Computer Science and Cybersecurity 
 - 🌱 I’m currently learning CS at UT Austin
-- 📫 How to reach me - khaelkugler@gmail.com
+- 📫 How to reach me - khaelkugler (at) gmail (dot) com
 
 <!---
 KhaelK138/KhaelK138 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
